@@ -27,7 +27,7 @@
       </div>
 
       <div class="column2 photo">
-        <img src="img/avatarGradient2.png" alt="It's me" />
+        <img class="blurredAvatar" src="img/avatarGradient2.png" alt="It's me" />
         <div class="whatami">Computer Engineer</div>    
         <div class="currentPos">Currently : <strong>Mid Salesforce Developer</strong></div>    
         <div class="currentPos"> <img style="vertical-align: middle;" src="img/andalucia.png"> Córdoba, <small> Andalucía | Spain </small> </div>    
